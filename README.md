@@ -1,2 +1,2 @@
 # vaishnavi
-type description about your project
+i have updated README file
